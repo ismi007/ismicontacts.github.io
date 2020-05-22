@@ -1,0 +1,22 @@
+body
+{ background-color: black;
+  font-family: Times New Roman;
+  font-size: 30pt;
+}
+.contact{
+  border:solid;
+}
+.Names{
+  border: solid;
+}
+.contacts{
+  background-color:Green;
+  border:solid;
+}
+img{
+align:right;
+height: 200px;
+width: 200px;
+border-radius : 100px;
+border: solid 10px;
+}
